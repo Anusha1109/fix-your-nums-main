@@ -4,10 +4,10 @@
 </div>
 <h3> 🧮 <a href="https://github.com/Srijita-Mandal/fix-your-nums">Fix-Your-Nums</a> is a multiple-in-one calculator with some mathematical and conversion features for multipurpose uses.</h3>
 <!-- <h3> 🌐 Visit: <a href="srijita-mandal.github.io/fix-your-nums/">Fix-your-nums</a> </h3> -->
-<h3> 🌟 This project is a part of <a href="https://jwoc.tech/">JGEC Winter of Code 2023</a></h3>
+<h3> 🌟 This project is a part of <a href="https://jwoc.tech/">Girl script summer of code 2023</a></h3>
 <br>
 
-n](https://badgen.net/github/open-issues/Srijita-Mandal/fix-your-nums)](https://github.com/Srijita-Mandal/fix-your-nums/issues?q=is%3Aopen)
+
 
 
 ## 💻 Technologies used:
